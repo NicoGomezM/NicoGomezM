@@ -3,15 +3,14 @@
 </h1>
 
 <h3 align="center">
-👨‍💻👷 Informatico con delirios de grandeza en construcción 👷👨‍💻
+👨‍💻👷 Informatico en construcción 👷👨‍💻
 </h3>
 
 **ABOUT ME**
 
-- 🔭 I’m currently working on Sobrevivir
+- 🔭 I’m currently working on *
 - 🌱 I’m currently learning PL/SQL
 - 📫 How to reach me: nicogomezmorgado86@gmail.com
-- ⚡ Fun fact: Jar Jar Binks es un sith 🤠
 
 <details>
   <summary>Current goals</summary>
