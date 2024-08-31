@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning PL/SQL
 - 📫 How to reach me: nicogomezmorgado86@gmail.com
 
+<!--
 <details>
   <summary>Current goals</summary>
 
@@ -32,7 +33,7 @@
   - [x] 🔨 Realizar la practica profesional 1
 
 </details>
-
+-->
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <details>
