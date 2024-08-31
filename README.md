@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-👨‍💻👷 Informatico en construcción 👷👨‍💻
+👨‍💻👷 Informatico en formación 👷👨‍💻
 </h3>
 
 **ABOUT ME**
