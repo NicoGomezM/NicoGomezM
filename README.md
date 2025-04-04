@@ -128,7 +128,6 @@
 
 [<img title="Instagram" height=30px src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram] &nbsp;&nbsp;&nbsp;
 [<img title="Linkedin" height=30px src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin] &nbsp;&nbsp;
-[<img title="Facebook" height=30px src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" />][facebook]
 &nbsp;&nbsp;
 
 [instagram]: https://www.instagram.com/nicoxlkbo/
